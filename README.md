@@ -15,7 +15,7 @@
 
 🌱I’m making a simple board for my first project using **java & spring boot**
 
-🌱I made a [**roadmap**](https://bit.ly/39T4w16){:target="_blank"}and some courses to grow well as a developer.⬇⬇
+🌱I made a [**roadmap**](https://bit.ly/39T4w16){ :target="_blank"}and some courses to grow well as a developer.⬇⬇
 
 <img width="823" alt="self boot camp_TLdkt" src="https://user-images.githubusercontent.com/102589253/167664899-dc74d25d-4651-426a-a862-24b36779a1dd.PNG">
 
