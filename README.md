@@ -1,11 +1,4 @@
-## 👋 Hi, I’m Tldkt
-![Tldkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tldkt&show_icons=true&theme=tokyonight)  
-🌱 I’m a begginer developer 
 
-🌱 Tldkt means a **seed**, and that's EXACTLY what I am!
-
-- I can **go trough the dirt  by myself**
-- I always focus on **making a good environment**
 
 ## ⛏ Currently
 
