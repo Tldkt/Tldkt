@@ -13,7 +13,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Tldkt)](https://solved.ac/Tldkt)
 
 
-🌱I’m making a simple board for my first project using **java & spring boot**
+
 
 
 
