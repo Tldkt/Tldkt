@@ -4,7 +4,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tldkt&layout=compact&theme=tokyonight)
 
 🌱 I’m learning **java** for my first language
 
